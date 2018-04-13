@@ -1,4 +1,4 @@
 # Prueba HTML-CSS
-## Bastián
+## Bastián Ortega
 
-* En el siguiente link se encuentra mi página [Link](file:///Users/bastianortega/Desktop/fullstack/semana4/actividad08/index.html)
+* En el siguiente link se encuentra mi página [Link](https://bastianorte.github.io/actividad8/)
